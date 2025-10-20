@@ -137,7 +137,7 @@ python cli.py compare --capacities 13 15 18 20 --parallel --plot
 
 ### Training Convergence
 
-![Training Progress](plots/training_progress_example.png)
+![Training Progress](plots/training_progress.png)
 
 - **Fast convergence**: Optimal policy found at episode 100
 - **Stable performance**: Maintains near-perfect coverage after convergence
@@ -145,7 +145,7 @@ python cli.py compare --capacities 13 15 18 20 --parallel --plot
 
 ### Hourly Performance
 
-![Hourly Performance](plots/hourly_performance_example.png)
+![Hourly Performance](plots/hourly_performance.png)
 
 - **Pre-evening preparation**: SOC reaches 87% by hour 15
 - **Evening maintenance**: SOC stays above 80% during peak (18-22h)
@@ -160,7 +160,7 @@ python cli.py compare --capacities 13 15 18 20 --parallel --plot
 
 ### Economic Viability
 
-![Economic Analysis](plots/economic_analysis_example.png)
+![Economic Analysis](plots/economic_analysis.png)
 
 **Capital Costs**:
 - Solar PV: $10,000 (5 kW @ $2,000/kW)
