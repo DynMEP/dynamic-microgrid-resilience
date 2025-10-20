@@ -5,8 +5,6 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![arXiv](https://img.shields.io/badge/arXiv-2025.XXXXX-b31b1b.svg)](https://arxiv.org/abs/2025.XXXXX)
-[![DOI](https://img.shields.io/badge/DOI-10.XXXX%2Fxxxx-blue)](https://doi.org/10.XXXX/xxxx)
 
 > **Research Paper**: "Anticipatory Deep Reinforcement Learning for Microgrid Energy Management: Achieving 100% Evening Peak Coverage Through Pre-Event Preparation"
 > 
@@ -17,7 +15,6 @@
 ## 📰 Latest Updates
 
 **October 2025**: 
-- ✅ arXiv preprint published: [arXiv:2025.XXXXX](https://arxiv.org/abs/2025.XXXXX)
 - ✅ Version 7.0 released with 98.8% load coverage across 100 test scenarios
 - ✅ Best policy achieves 100% coverage (found at episode 100)
 - ✅ Complete code, trained models, and data now available
@@ -255,20 +252,9 @@ dynamic-microgrid-resilience/
 │   ├── *_resilience_detailed.csv
 │   └── *_config_report.txt
 │
-├── docs/                               # Documentation
-│   ├── paper/                          # arXiv paper source
-│   ├── API.md                          # API documentation
-│   └── METHODOLOGY.md                  # Technical details
-│
-├── examples/                           # Example scripts
-│   ├── basic_training.py
-│   ├── custom_config.py
-│   └── batch_evaluation.py
-│
-└── tests/                              # Unit tests
-    ├── test_agent.py
-    ├── test_environment.py
-    └── test_battery.py
+└── docs/                               # Documentation
+    ├── API.md                          # API documentation
+    └── METHODOLOGY.md                  # Technical details
 ```
 
 ---
@@ -338,7 +324,7 @@ R_total = R_base + R_pre_evening + R_evening + R_daytime
   title={Anticipatory Deep Reinforcement Learning for Microgrid Energy Management: 
          Achieving 100\% Evening Peak Coverage Through Pre-Event Preparation},
   author={Davila, Alfonso},
-  journal={arXiv preprint arXiv:2025.XXXXX},
+  email={davila.alfonso@gmail.com},
   year={2025}
 }
 ```
@@ -348,12 +334,6 @@ R_total = R_base + R_pre_evening + R_evening + R_daytime
 ---
 
 ## 🎓 Educational Resources
-
-### Tutorials
-
-1. **Getting Started**: [examples/basic_training.py](examples/basic_training.py)
-2. **Custom Configuration**: [examples/custom_config.py](examples/custom_config.py)
-3. **Batch Evaluation**: [examples/batch_evaluation.py](examples/batch_evaluation.py)
 
 ### Documentation
 
