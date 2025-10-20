@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Dynamic Microgrid Resilience: Anticipatory Deep Q-Network for Energy Management"
+version: 7.0.0
+date-released: 2025-10-19
+url: "https://github.com/DynMEP/dynamic-microgrid-resilience"
+repository-code: "https://github.com/DynMEP/dynamic-microgrid-resilience"
+license: MIT
+authors:
+  - family-names: "Davila"
+    given-names: "Alfonso"
+    email: "davila.alfonso@gmail.com"
+    orcid: "https://orcid.org/0009-0001-3521-3802"
+keywords:
+  - "deep reinforcement learning"
+  - "microgrid"
+  - "energy management"
+  - "DQN"
+  - "renewable energy"
+  - "battery storage"
+  - "temporal credit assignment"
+  - "anticipatory control"
+abstract: >
+  An anticipatory Deep Q-Network (DQN) approach for microgrid energy
+  management that achieves 98.8% average load coverage by learning to
+  prepare for evening peak demand hours in advance. The system uses
+  time-to-critical-event state augmentation and hierarchical reward
+  shaping to enable proactive battery charging strategies, achieving
+  near-perfect reliability (99.2% evening coverage) without perfect
+  forecasting. Demonstrated on a realistic system with 5 kW solar PV,
+  3 kW wind, and 18 kWh battery storage, with 4.3-year payback period
+  and 190% ROI over 20 years.
+references:
+  - type: article
+    title: "Anticipatory Deep Reinforcement Learning for Microgrid Energy Management: Achieving 100% Evening Peak Coverage Through Pre-Event Preparation"
+    authors:
+      - family-names: "Davila"
+        given-names: "Alfonso"
+    year: 2025
+    journal: "arXiv preprint"
+    url: "https://arxiv.org/abs/2025.XXXXX"
+    identifiers:
+      - type: arxiv
+        value: "2025.XXXXX"
+      - type: doi
+        value: "10.XXXX/xxxx"
