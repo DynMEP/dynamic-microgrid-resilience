@@ -1,0 +1,56 @@
+======================================================================
+MICROGRID RESILIENCE - AGGRESSIVE DQN VERSION 7.0
+======================================================================
+
+Generated: 2025-10-19 09:47:23
+
+CRITICAL CHANGES IN V7
+----------------------------------------------------------------------
+✓ Battery capacity increased to 18 kWh (from 13 kWh)
+✓ Granular action space: 5 actions (charge_full, charge_half, hold, discharge_half, discharge_full)
+✓ Pre-evening preparation phase (hours 15-17)
+✓ Extreme reward penalties for evening failures
+✓ State dimension expanded to 7 features
+✓ Higher discount factor (0.97) for long-term planning
+
+CONFIGURATION
+----------------------------------------------------------------------
+PV Capacity:          5.0 kW
+Wind Capacity:        3.0 kW
+Battery Capacity:     18.0 kWh
+Battery Power:        6.0 kW
+Training Episodes:    1100
+State Dimension:      7 features
+Action Space:         5 actions
+Learning Rate:        0.0002
+Discount Factor:      0.97
+Epsilon Decay:        0.9992
+
+PERFORMANCE (BEST POLICY)
+----------------------------------------------------------------------
+Load Met Rate:        100.00%
+Unmet Energy:         0.000 kWh/day
+Average Battery SOC:  73.00%
+Pre-Evening SOC:      87.09%
+Evening Load Met:     100.00%
+Evening Average SOC:  80.44%
+Peak Load:            5.00 kW
+Peak Renewable:       6.15 kW
+
+EQUIPMENT RECOMMENDATIONS (NEC 2023)
+----------------------------------------------------------------------
+PV Array (NEC 690):   5.0 kW DC
+Wind Turbine (NEC 694): 3.0 kW AC
+Battery ESS (NEC 706): 18.0 kWh @ 6.0 kW
+Inverter Rating:      9.2 kW (15% safety)
+Grid Service (NEC 705): 5.0 kW minimum
+
+TRAINING CONVERGENCE
+----------------------------------------------------------------------
+Best Performance at:  Episode 100
+Best Load Met Rate:   100.00%
+Best Unmet Energy:    0.000 kWh
+Final Epsilon:        0.414637
+Episodes Since Best:  10
+
+======================================================================
