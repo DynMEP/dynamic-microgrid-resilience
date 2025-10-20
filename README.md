@@ -329,8 +329,6 @@ R_total = R_base + R_pre_evening + R_evening + R_daytime
 }
 ```
 
-**Paper**: [arXiv:2025.XXXXX](https://arxiv.org/abs/2025.XXXXX)
-
 ---
 
 ## 🎓 Educational Resources
