@@ -254,7 +254,9 @@ dynamic-microgrid-resilience/
 │
 └── docs/                               # Documentation
     ├── API.md                          # API documentation
-    └── METHODOLOGY.md                  # Technical details
+    ├── METHODOLOGY.md                  # Technical details
+    ├── TRAINING.md                     # Training documentation    
+    └── TROUBLESHOOTING.md              # Troubleshooting documentation    
 ```
 
 ---
