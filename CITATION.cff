@@ -38,10 +38,4 @@ references:
       - family-names: "Davila"
         given-names: "Alfonso"
     year: 2025
-    journal: "arXiv preprint"
-    url: "https://arxiv.org/abs/2025.XXXXX"
-    identifiers:
-      - type: arxiv
-        value: "2025.XXXXX"
-      - type: doi
-        value: "10.XXXX/xxxx"
+
