@@ -1,4 +1,0 @@
-capacity_kwh,load_met_rate,unmet_energy,battery_cost,total_system_cost,cost_per_percent
-15.0,100.0,0.0,6750.0,28762.5,287.625
-18.0,100.0,0.0,8100.0,30450.0,304.5
-20.0,100.0,0.0,9000.0,31575.0,315.75
