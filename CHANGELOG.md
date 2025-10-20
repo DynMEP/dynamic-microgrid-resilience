@@ -226,7 +226,6 @@ results = train_agent(agent, episodes=1000)
 ## Links
 
 - **Repository**: https://github.com/DynMEP/dynamic-microgrid-resilience
-- **Paper**: https://arxiv.org/abs/2025.XXXXX
 - **Issues**: https://github.com/DynMEP/dynamic-microgrid-resilience/issues
 - **Discussions**: https://github.com/DynMEP/dynamic-microgrid-resilience/discussions
 
