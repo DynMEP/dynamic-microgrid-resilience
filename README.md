@@ -6,10 +6,6 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> **Research Paper**: "Anticipatory Deep Reinforcement Learning for Microgrid Energy Management: Achieving 100% Evening Peak Coverage Through Pre-Event Preparation"
-> 
-> **Author**: Alfonso Davila | [LinkedIn](https://www.linkedin.com/in/alfonso-davila-3a121087) | davila.alfonso@gmail.com
-
 ---
 
 ## 📰 Latest Updates
@@ -455,7 +451,7 @@ This software is free for academic and commercial use under MIT license. If you 
 
 **Author**: Alfonso Davila
 - **Email**: davila.alfonso@gmail.com
-- **LinkedIn**: [alfonso-davila-3a121087](https://www.linkedin.com/in/alfonso-davila-3a121087)
+- **LinkedIn**: [https://www.linkedin.com/in/alfonso-davila-vera](https://www.linkedin.com/in/alfonso-davila-vera) 
 - **GitHub Issues**: [Report bugs or request features](https://github.com/DynMEP/dynamic-microgrid-resilience/issues)
 
 ### Getting Help
