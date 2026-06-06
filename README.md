@@ -483,7 +483,7 @@ If you find this project useful, please consider giving it a star on GitHub! ⭐
 
 <div align="center">
 
-**Built with 🔋 by Alfonso Davila**
+**Built with 🔋 by Alfonso Davila Vera**
 
 *Powering the future with intelligent energy management*
 
