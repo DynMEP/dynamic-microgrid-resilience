@@ -332,10 +332,6 @@ R_total = R_base + R_pre_evening + R_evening + R_daytime
 }
 ```
 
-> Note: this is a preprint. Once posted to TechRxiv/arXiv, replace with the issued DOI.
-
----
-
 ## 🎓 Educational Resources
 
 ### Documentation
