@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 type: software
 title: "Dynamic Microgrid Resilience: Anticipatory Deep Q-Network for Energy Management"
-version: 7.0.0
-date-released: 2025-10-19
+version: 7.1.0
+date-released: 2026-06-07
 url: "https://github.com/DynMEP/dynamic-microgrid-resilience"
 repository-code: "https://github.com/DynMEP/dynamic-microgrid-resilience"
 license: MIT
@@ -33,9 +33,9 @@ abstract: >
   and 190% ROI over 20 years.
 references:
   - type: article
-    title: "Anticipatory Deep Reinforcement Learning for Microgrid Energy Management: Achieving 100% Evening Peak Coverage Through Pre-Event Preparation"
+    title: "Anticipatory Deep Reinforcement Learning for Microgrid Energy Management: Achieving Near-100% Evening Peak Coverage Through Pre-Event Preparation (Preprint)"
     authors:
       - family-names: "Davila"
         given-names: "Alfonso"
-    year: 2025
+    year: 2026
 

@@ -137,7 +137,7 @@ s₇ = 1 if hour ∈ {15, 16, 17}, else 0
 **Purpose:**
 - Signals opportunity to prepare for evening
 - Triggers aggressive charging behavior
-- Key innovation for anticipatory control
+- Key design element for anticipatory control
 
 ### Comparison with Standard Approaches
 

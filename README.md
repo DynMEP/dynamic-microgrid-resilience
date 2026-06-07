@@ -322,14 +322,18 @@ R_total = R_base + R_pre_evening + R_evening + R_daytime
 ### Citation
 
 ```bibtex
-@article{davila2025anticipatory,
-  title={Anticipatory Deep Reinforcement Learning for Microgrid Energy Management: 
-         Achieving 100\% Evening Peak Coverage Through Pre-Event Preparation},
+@misc{davila2026anticipatory,
+  title={Anticipatory Deep Reinforcement Learning for Microgrid Energy Management:
+         Achieving Near-100\% Evening Peak Coverage Through Pre-Event Preparation},
   author={Davila Vera, Alfonso A.},
-  email={davila.alfonso@gmail.com},
-  year={2025}
+  year={2026},
+  note={Preprint},
+  howpublished={\url{https://github.com/DynMEP/dynamic-microgrid-resilience}},
+  orcid={0009-0001-3521-3802}
 }
 ```
+
+> Note: this is a preprint. Once posted to TechRxiv/arXiv, replace with the issued DOI.
 
 ---
 
@@ -418,13 +422,13 @@ See [Issues](https://github.com/DynMEP/dynamic-microgrid-resilience/issues) for 
 - CLI with visualization tools
 - Complete documentation
 
-### Version 7.1 (Q1 2026) 🚧
+### Version 7.1 (2026) 🚧
 - [ ] Web dashboard for live monitoring
 - [ ] Grid-connected mode
 - [ ] Battery health modeling
 - [ ] Multi-objective optimization
 
-### Version 8.0 (Q2 2026) 🔮
+### Version 8.0 (late 2026 / 2027) 🔮
 - [ ] Multi-agent microgrids
 - [ ] Transfer learning module
 - [ ] Edge deployment (Raspberry Pi)
