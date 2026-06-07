@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+- Publication-ready preprint `paper/arxiv_preprint_final_v6.pdf` (June 2026): 21 pages, four figures, embedded bibliography.
+
+### Changed
+- Reframed contribution as a forecast-free, off-grid formulation; added closest prior art to Related Work (Muriithi & Chowdhury 2022; tariff-aware dual-layer Q-learning).
+- Clarified that battery discharge is a standard load-following rule with an SOC floor, not a separate contribution; the gain comes from anticipatory charging.
+
+### Fixed
+- Paper bibliography now compiles (replaced missing `\bibliography{references}` with an embedded `thebibliography`); resolved an undefined citation key and a broken figure reference.
+
 ### Planned
 - Grid-connected mode with time-of-use pricing
 - Battery degradation modeling
