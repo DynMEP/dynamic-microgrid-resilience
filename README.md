@@ -321,7 +321,7 @@ R_total = R_base + R_pre_evening + R_evening + R_daytime
 @article{davila2025anticipatory,
   title={Anticipatory Deep Reinforcement Learning for Microgrid Energy Management: 
          Achieving 100\% Evening Peak Coverage Through Pre-Event Preparation},
-  author={Davila, Alfonso},
+  author={Davila Vera, Alfonso A.},
   email={davila.alfonso@gmail.com},
   year={2025}
 }
@@ -449,7 +449,7 @@ This software is free for academic and commercial use under MIT license. If you 
 
 ## 📞 Contact & Support
 
-**Author**: Alfonso Davila
+**Author**: Alfonso A. Davila Vera
 - **Email**: davila.alfonso@gmail.com
 - **LinkedIn**: [https://www.linkedin.com/in/alfonso-davila-vera](https://www.linkedin.com/in/alfonso-davila-vera) 
 - **GitHub Issues**: [Report bugs or request features](https://github.com/DynMEP/dynamic-microgrid-resilience/issues)
