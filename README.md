@@ -316,7 +316,6 @@ R_total = R_base + R_pre_evening + R_evening + R_daytime
 [#abstract](#abstract)
 > Microgrid energy management faces a critical challenge: ensuring reliable power during evening peak demand when renewable generation is minimal. We present an anticipatory Deep Q-Network (DQN) approach that learns to prepare for evening peaks hours in advance, achieving near-100% load coverage without requiring weather forecasts. Afternoon pre-charging for evening peaks has been demonstrated previously in grid-tied, tariff-driven settings; our contribution is a *forecast-free* formulation for *off-grid resilience* that couples temporal state augmentation (cyclical hour encoding + evening/pre-evening phase flags) with hierarchical reward shaping (−400 evening penalty), and quantifies each component via ablation. The discharge side is a standard load-following rule with a state-of-charge floor — the gain comes entirely from charging the battery in advance so that a simple discharge policy then succeeds. On a realistic off-grid microgrid (5 kW solar PV, 3 kW wind, 18 kWh battery storage), the learned policy reaches 98.8% average load coverage across 100 scenarios (86% perfect), >99% evening reliability, charging to ~87% SOC by 15:00. Economic analysis: 4.3-year payback, 190% 20-year ROI.
 
-📄 **Preprint (v6, June 2026):** [`paper/arxiv_preprint_final_v6.pdf`](paper/arxiv_preprint_final_v6.pdf)
 
 ### Citation
 
